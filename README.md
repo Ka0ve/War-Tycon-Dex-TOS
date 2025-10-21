@@ -1,4 +1,3 @@
-War-Tycon-Dex-TOS
 
 The Terms Of Service for War Tycoon Dex
 
