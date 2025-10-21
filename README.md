@@ -16,4 +16,4 @@ You are not allowed to trade War Tycoon Dex vehicles with stuff from other dexes
 For example a trade between War Tycoon Dex and (ExampleDex)
 
 By using the War Tycoon Dex discord bot you are liable if you break the rules and breaking any of these rules will result in a blacklist from using War Tycoon Dex and you are acknowledging that decisions from the War Devs team are final.
-By using the bot you are agreeing to any future chnages to the TOS.
+By using the bot you are agreeing to any future chnages to the TOS
