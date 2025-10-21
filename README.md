@@ -1,5 +1,5 @@
 
-The Terms Of Service for War Tycoon Dex
+The Terms Of Service of War Tycoon Dex
 
 # Farming
 Farming is not allowed (meaning spam creating servers for War Tycoon Dex to gain an unfair advantage)
