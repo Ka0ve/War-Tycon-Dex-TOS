@@ -2,7 +2,7 @@
 The Terms Of Service of War Tycoon Dex
 
 # Farming
-Farming is not allowed (meaning spam creating servers for War Tycoon Dex to gain an unfair advantage)
+Farming is allowed with a limit of 2 farms.
 
 # Exploitation
 Using bugs or finding ways to exploit the bot to gain unfair advantages over others is not tolerated
